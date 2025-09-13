@@ -17,6 +17,6 @@ const FormLayout = () => {
         </div>
     </div>
   )
-}
+};
 
 export default FormLayout;
