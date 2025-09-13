@@ -88,7 +88,7 @@ const AddressInfo = () => {
             Address Information.
           </h1>
           <p className="text-gray-600 dark:text-gray-300 text-lg">
-            Please provide your address details
+            Please provide your address details.
           </p>
         </div>
 
